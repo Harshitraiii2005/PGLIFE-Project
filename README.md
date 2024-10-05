@@ -23,4 +23,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harshitraiii2005/pglife.git
+   git clone https://github.com/Harshitraiii2005/PGLIFE-project.git
